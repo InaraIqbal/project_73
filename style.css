@@ -1,0 +1,13 @@
+.navbar-inverse{
+    position: sticky;
+    top:0;
+    z-index:99999;
+}
+#intro-vid{
+    height:900px;
+    width:100%;
+    margin-top:10px;
+}
+.main_div img{
+    width:90%;
+}
